@@ -1,0 +1,139 @@
+body{
+    background-color:white;
+    margin: 0;
+    min-width: 375px;
+    max-width: 1440px;
+    display: flex;
+    flex-wrap: wrap;
+    
+   
+}
+
+.nav{
+        margin: 4%;
+        display: flex;
+        justify-content:space-between;
+    
+    }
+    nav ul{
+        list-style: none;
+        display: flex;
+        gap: 30px;
+    }
+      
+   
+ .container2{
+     width:50%;
+     margin: 4%;
+ }   
+
+.container2 h1{
+    width: 100%;
+
+    
+}
+
+.para1{
+    width: 450px;
+}
+input{
+    
+    width:50%;
+    padding: 10px;
+    margin-top: 30px;
+}
+.btn{
+  
+    width:40%;
+    padding: 10px;
+    background-color: rgb(63, 63, 233);
+    border: 0px;
+    cursor: pointer;
+    color: white;
+    
+}
+
+.bgimage1 img{
+    width: 80%;
+} 
+
+.container1{
+    display: flex;
+    width: 100%; 
+}
+.para2{
+width:500px;
+
+}
+.para3{
+    width: 480px;
+}
+
+.para4{
+    display: inline-block;
+    text-decoration:underline;
+    cursor: pointer;
+}
+
+.para4:hover{
+    color: rgb(96, 204, 164);
+}
+
+
+.container3{
+     display: flex;
+     width: 100%;
+}
+
+.bgimage2 img{
+    width: 80%;
+    display: flex;
+    
+   
+}
+.container4 h1{
+    width: 50%;
+  
+   
+}
+
+.container4{
+    margin: 4%;
+    
+}
+
+.curveimg img{
+    width: 100%;
+    display:block;
+}
+
+.container3{
+    background-color:#f6f6fcdc;
+    display:flex;
+}
+.container5{
+    width: 54%;
+    background-color:white;
+    display: flex;
+    border-radius: 15px;
+    padding: 2%;
+}
+
+.avatar{
+    border-radius: 50%;
+   width: 35%;
+}
+.container6 h2,p{
+    margin: 1%;
+    display: flex;
+}
+
+.container6{
+    width: 100%;
+}
+.para5{
+    width: 100%;
+}
+.profile{
+    display: flex;
+}
